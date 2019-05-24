@@ -1,0 +1,36 @@
+body{
+     		font-family: Verdana;
+     		background-color: #D5F5E3  ;
+     	}
+      .form{
+        position: relative;
+        width: 600px;
+        height: 700px;
+        padding-top: 15px;
+        padding-left: 50px;
+        border-radius: 20px;
+        margin:auto;
+        background-color: #82E0AA  ;
+      }
+      input[type=text],[type=email]{
+
+        width:500px;
+        height: 35px;  
+      }
+
+      input[type=submit]{
+        position: relative;
+        width: 150px;
+        height: 40px;
+        
+        border-radius: 20px;
+        margin-left: 150px;
+        border:0px; 
+      }
+      textarea{
+
+width: 500px;
+height: 110px;
+font: 14px normal normal uppercase helvatica, arial, serif;
+
+}
